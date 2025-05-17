@@ -92,7 +92,8 @@ dependencies {
 
 | Home Screen                         | Product Details                       | Cart Page                           |
 | ----------------------------------- | ------------------------------------- | ----------------------------------- |
-|  https://github.com/kumarashish77/Skinova/blob/ac3eff3bccf68f7d438b199565f50f9a807211cf/img.jpg
+|  ![image](https://github.com/user-attachments/assets/974ea4f8-2bf5-4ce6-a0e7-14b36eb3d353)
+
 
 
 > Replace the URLs above with your actual screenshots/images hosted on GitHub, Imgur, or Firebase.
