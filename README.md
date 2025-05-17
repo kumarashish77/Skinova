@@ -92,7 +92,8 @@ dependencies {
 
 | Home Screen                         | Product Details                       | Cart Page                           |
 | ----------------------------------- | ------------------------------------- | ----------------------------------- |
-|  ![image](https://github.com/user-attachments/assets/974ea4f8-2bf5-4ce6-a0e7-14b36eb3d353)
+|  ![image](https://github.com/user-attachments/assets/974ea4f8-2bf5-4ce6-a0e7-14b36eb3d353) ![image](https://github.com/user-attachments/assets/1ff56205-254d-4453-a024-5586cd3fe079)
+
 
 
 
