@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Skinova</string>
+    <string name="splash_title">Skincare made \nSimple ,\nBeautiful,\nAnd Effective</string>
+    <string name="glow_starts_here">Glow Starts Here</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="see_all">See all</string>
+    <string name="product">Product</string>
+    <string name="popular_product">Popular product</string>
+    <string name="search">Search...</string>
+    <string name="title">title</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="_0">$0</string>
+    <string name="description">description</string>
+    <string name="product_detail">Product Detail</string>
+</resources>
