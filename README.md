@@ -92,7 +92,7 @@ dependencies {
 
 | Home Screen                         | Product Details                       | Cart Page                           |
 | ----------------------------------- | ------------------------------------- | ----------------------------------- |
-|  
+|  img.jpg
 
 
 > Replace the URLs above with your actual screenshots/images hosted on GitHub, Imgur, or Firebase.
